@@ -1,0 +1,1 @@
+import './style.css';export const metadata={title:'The Sovereign Circle | A Course Correction of Life',description:'A private international society for meaningful introductions.'};export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
