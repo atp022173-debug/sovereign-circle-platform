@@ -36,7 +36,7 @@ export default function Home() {
           <div className="eyebrow">A SOCIETY FOR EXCEPTIONAL INDIVIDUALS</div>
           <h2>Two paths. <em>One standard.</em></h2>
           <p>We welcome accomplished women and gentlemen who value authenticity, maturity, and a serious approach to meaningful partnership. Both pathways are selective, and membership is paid following approval.</p>
-          <div className="membership-paths"><article><span>FOR WOMEN</span><h3>The Distinguished Woman</h3><p>For women whose independence, accomplishments, and values deserve a more intentional introduction experience.</p><a href="#founding">EXPLORE THE INVITATION →</a></article><article><span>FOR GENTLEMEN</span><h3>The Distinguished Gentleman</h3><p>For men who value substance, character, and the possibility of building a meaningful future with an exceptional partner.</p><a href="#founding">EXPLORE THE INVITATION →</a></article></div>
+          <div className="membership-paths"><article><span>FOR WOMEN</span><h3>The Distinguished Woman</h3><p>For women whose independence, accomplishments, and values deserve a more intentional introduction experience.</p><a href="/apply/women">PREVIEW PRIVATE APPLICATION →</a></article><article><span>FOR GENTLEMEN</span><h3>The Distinguished Gentleman</h3><p>For men who value substance, character, and the possibility of building a meaningful future with an exceptional partner.</p><a href="/apply/gentlemen">PREVIEW PRIVATE APPLICATION →</a></article></div>
         </section>
         <section className="invitation-section invitation-process">
           <div className="eyebrow">THE MEMBERSHIP JOURNEY</div><h2>Membership is <em>by approval.</em></h2>
